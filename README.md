@@ -1,4 +1,3 @@
-
 # Merge Two Dictionaries in Python
 
 ## 📌 Overview
