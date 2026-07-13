@@ -50,7 +50,6 @@ Combining multiple datasets
 Interview preparation
 
 Dictionary manipulation practice
-
 Merging configuration settings
 
 🚀 Possible Improvements
